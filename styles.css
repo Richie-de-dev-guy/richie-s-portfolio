@@ -363,6 +363,7 @@ a:hover {
     grid-template-columns: 1fr 1fr;
     gap: 3rem;
     align-items: center;
+    justify-contents:center;
 }
 
 .about-text h3 {
